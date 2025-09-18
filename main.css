@@ -1,0 +1,61 @@
+<style type="text/css">
+
+p {
+	font-family: "Comic Sans MS";
+	font-size: 24px;
+	font-style: italic;
+}
+body {
+	font-family: "Comic Sans MS";
+	margin: 0px;
+	padding: 0px;
+	border: 0px none;
+	color: #0000FF;
+	background-color: #CCFFFF;
+	margin-left: 5%;
+	margin-right: 5%;
+
+
+
+
+}
+h1 {
+	font-size: x-large;
+	text-align: center;
+	color: #CCFFFF;
+	background-color: #0000FF;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+h2 {
+	font-size: large;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 10px 0px 0px 10px;
+	border: 0px;
+	background-color: #51b5d1;
+
+
+
+
+}
+.header a {
+	text-decoration: none;
+	color: #FFFFFF;
+
+}
+.header a:hover {
+	text-decoration: underline
+}
+table {
+	margin: 0px;
+	padding: 0px;
+	border: 0px none;
+}
+img {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
